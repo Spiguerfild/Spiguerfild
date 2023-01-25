@@ -1,6 +1,6 @@
 ### 💻 Estudando programação e buscando oportunidades
 <hr>
-Spiguerfild GitHub stats](https://github-readme-stats.vercel.app/api?username=Spiguerfild&show_icons=true&theme=dracula)
+
 <hr>
   <div style="Display: inlineblock"><br>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
