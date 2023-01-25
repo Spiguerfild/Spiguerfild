@@ -1,7 +1,7 @@
 ### 💻 Estudando programação e buscando oportunidades
-<hr>
 
-<hr>
+![Spiguerfild GitHub stats](https://github-readme-stats.vercel.app/api?username=Spiguerfild&show_icons=true&theme=radical)
+
   <div style="Display: inlineblock"><br>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
