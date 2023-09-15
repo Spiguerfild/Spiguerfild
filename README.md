@@ -4,8 +4,8 @@
 
 ### Projetos Recentes
 
-- [Projeto 1](https://github.com/seu-usuario/projeto1)
-- [Projeto 2](https://github.com/seu-usuario/projeto2)
+- [Band Music](https://github.com/Spiguerfild/band-music-system)
+- [Band Music - Front](https://github.com/Spiguerfild/band-music-system-front)
 - [Portfolio](https://portifolio-topaz-omega.vercel.app/)
 
 ---
