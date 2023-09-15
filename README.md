@@ -1,4 +1,4 @@
-### 💻 Estudando programação e buscando oportunidades
+### 💻 Estudando programação e buscando oportunidades 🎨
 
 ![Spiguerfild GitHub stats](https://github-readme-stats.vercel.app/api?username=Spiguerfild&show_icons=true&theme=transparent)
 
