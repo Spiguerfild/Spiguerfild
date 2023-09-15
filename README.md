@@ -4,9 +4,9 @@
 
 ### Projetos Recentes
 
+- [Portfolio](https://portifolio-topaz-omega.vercel.app/)
 - [Band Music](https://github.com/Spiguerfild/band-music-system)
 - [Band Music - Front](https://github.com/Spiguerfild/band-music-system-front)
-- [Portfolio](https://portifolio-topaz-omega.vercel.app/)
 
 ---
 
