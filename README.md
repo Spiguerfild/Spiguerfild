@@ -12,7 +12,6 @@
 ---
 
 #### Contato
-
+- [E-mail](mailto:luique16@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/luis-henrique-front-dev/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=5544984342957)
-- [E-mail](mailto:luique16@outlook.com)
