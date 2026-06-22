@@ -44,7 +44,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor
 
 * **AZ Tecnologia em Gestão** (2024 - Atual) — *Desenvolvedor Full Stack*
   * **SISMOBI (Mobile):** Manutenção, criação de features e deploy nas lojas (Play Store e App Store) de um app voltado para inventário e gestão de patrimônios públicos.
-  * **Patrimônio Mobiliário (Web):** Desenvolvimento de ponta a ponta em sistema web corporativo, utilizando arquitetura limpa (*Clean Architecture*), Docker, CI/CD e integração com múltiplos bancos de dados (Postgres, Oracle, Sql Server).
+  * **Patrimônio Mobiliário (Web):** Desenvolvimento de ponta a ponta em sistema web corporativo, utilizando arquitetura limpa (*Clean Architecture*), Docker, CI/CD e integração com múltiplos bancos de dados.
 
 ---
 
