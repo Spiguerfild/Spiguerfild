@@ -17,8 +17,8 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor
 
 ### 📊 Estatísticas do GitHub
 
-![Status do GitHub de Luis](https://github-readme-stats.vercel.app/api?username=Spiguerfild&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Spiguerfild&layout=compact&theme=dracula)
+![Status do GitHub de Luis](https://github-readme-stats.vercel.app/api?username=Spiguerfild&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Spiguerfild&layout=compact&theme=tokyonight)
 
 ---
 
